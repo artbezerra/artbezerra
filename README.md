@@ -1,7 +1,7 @@
 ## Hello there! I'm Arthur Bezerra. It's a pleasure to meet you.
 
-- Actually, I work at Stellantis South America
-- I'm currently pursuing a bachelor degree in Information Systems at PUC Minas
+- Working at Stellantis South America
+- Information Systems undergraduate student at PUC Minas
 - Interested in data science, aiming to be an IT Analyst
 
 <div style="display: inline_block"><br>
