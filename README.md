@@ -1,4 +1,4 @@
-# 📌 Arthur Bezerra
+# 📌 Arthur Santos Bezerra
 
 **`Information Systems Undergraduate at PUC Minas`**
 
