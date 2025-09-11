@@ -1,8 +1,8 @@
 ## Hello there! I'm Arthur Bezerra. It's a pleasure to meet you.
 
-- Working at Stellantis South America
 - Information Systems undergraduate student at PUC Minas
 - Interested in data science, aiming to be an IT Analyst
+- Studying React Native & JS
 
 <div style="display: inline_block"><br>
   <!--
