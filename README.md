@@ -1,5 +1,4 @@
-# 📌 Arthur Santos Bezerra
-
+# 📌 About me
 **`Information Systems Undergraduate at PUC Minas`**
 
 I'm deeply passionate about technology, particularly in the realm of Information Systems. My fascination goes beyond the digital and computational aspects; I believe that information systems encompass a broader spectrum, including verbal and nonverbal communication, subtle psychological influence, and other forms of information exchange. 
@@ -37,7 +36,7 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 
 ---
 
-### 🤖 Languages & Tools
+### 💻 Languages & Tools
 <img 
     align="left" 
     alt="HTML"
