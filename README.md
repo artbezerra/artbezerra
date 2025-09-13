@@ -36,7 +36,7 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 
 ---
 
-### 💻 Languages & Tools:
+# 💻 Languages & Tools:
 <img 
     align="left" 
     alt="HTML"
@@ -113,7 +113,7 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 <br/>
 <br/>
 
-### 📊 Career Stats:
+# 📊 Career Stats:
 ![](https://github-readme-stats.vercel.app/api?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=artbezerra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
