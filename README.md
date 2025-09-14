@@ -14,10 +14,6 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             target="_blank">
     </a> 
-    <a href="mailto:art.bezerra2@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-        target="_blank">
-    </a>
     <a href="https://github.com/artbezerra?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
