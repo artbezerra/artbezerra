@@ -116,5 +116,17 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=artbezerra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=artbezerra&icon=0&color=0)](https://visitcount.itsvg.in)
+# Study Roadmap
+- Abaixo estão cursos planejo concluir para aprender novas tecnologias e constuiur uma base sólida. 
+- Estes cursos são gratuitos e estão disponíveis na plataforma cursoemvideo.com apresentadas pelo professor Gustavo Guanabara.
+  
+- [X] JavaScript - Curso em Vídeo
+- [ ] HTML e CSS - Curso em Vídeo
+- [X] MySQL - Curso em Vídeo
+- [X] Git e GitHub - Curso em Vídeo
+- [ ] Python - Curso em Vídeo
+- [ ] Segurança da Informação Módulo - Curso em Vídeo
+- [ ] PHP - Curso em Vídeo
+- [ ] Java - Curso em Vídeo
+
