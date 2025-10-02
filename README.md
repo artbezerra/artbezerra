@@ -119,8 +119,8 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 ***
 
 # 📚 Study Roadmap
-- Abaixo estão cursos planejo concluir para aprender novas tecnologias e constuiur uma base sólida. 
-- Estes cursos são gratuitos e estão disponíveis na plataforma cursoemvideo.com apresentadas pelo professor Gustavo Guanabara.
+- Below are some courses that I plan to complete, willing to learn new technologies and build a solid base.
+- These courses are free and available on cursoemvideo.com, presented by Gustavo Guanabara.
   
 - [X] JavaScript - Curso em Vídeo
 - [ ] HTML e CSS - Curso em Vídeo
