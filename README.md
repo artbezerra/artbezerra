@@ -127,7 +127,7 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 - [X] MySQL - Curso em Vídeo
 - [X] Git e GitHub - Curso em Vídeo
 - [ ] Python - Curso em Vídeo
-- [ ] Segurança da Informação Módulo - Curso em Vídeo
+- [ ] Segurança da Informação - Curso em Vídeo
 - [ ] PHP - Curso em Vídeo
 - [ ] Java - Curso em Vídeo
 
