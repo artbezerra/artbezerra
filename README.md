@@ -122,12 +122,14 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 - Below are some courses that I plan to complete, willing to learn new technologies and build a solid base.
 - These courses are free and available on cursoemvideo.com, presented by Gustavo Guanabara.
   
-- [X] JavaScript - Curso em Vídeo
-- [ ] HTML e CSS - Curso em Vídeo
-- [X] MySQL - Curso em Vídeo
-- [X] Git e GitHub - Curso em Vídeo
-- [ ] Python - Curso em Vídeo
-- [ ] Segurança da Informação - Curso em Vídeo
-- [ ] PHP - Curso em Vídeo
-- [ ] Java - Curso em Vídeo
+- [X] JavaScript - Curso em Vídeo [40 Horas]
+- [ ] HTML e CSS - Curso em Vídeo [200 Horas]
+- [X] MySQL - Curso em Vídeo [20 Horas]
+- [X] Git e GitHub [20 Horas]
+- [ ] Python - Curso em Vídeo [120 Horas]
+- [ ] Segurança da Informação - [100 Horas]
+- [ ] PHP - [40 Horas]
+- [ ] Java - [40 Horas]
+- [ ] Hardware [20 Horas]
+- [ ] Linux [40 Horas]
 
