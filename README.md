@@ -116,20 +116,31 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 ***
 
 # 📚 Study Roadmap
-- Below are some courses that I plan to complete, willing to learn new technologies and build a solid base.
+- Here are some courses that I plan to complete, willing to learn new technologies and build a solid base.
 - These courses are free and available on cursoemvideo.com, presented by Gustavo Guanabara.
   
 - [X] JavaScript [40 HORAS]
-- [ ] HTML e CSS - Módulo 1, 2, 3, 4 e 5 [200 HORAS]
+- [ ] HTML e CSS - Módulo 1 [40 HORAS]
+- [ ] HTML e CSS - Módulo 2 [40 HORAS]
+- [ ] HTML e CSS - Módulo 3 [40 HORAS]
+- [ ] HTML e CSS - Módulo 4 [40 HORAS]
+- [ ] HTML e CSS - Módulo 5 [40 HORAS]
 - [X] MySQL [20 HORAS]
 - [X] Git e GitHub [20 HORAS]
-- [ ] Python - Mundo 1, 2 e 3 [120 HORAS]
-- [ ] Segurança da Informação - Módulo 1, 2, 3, 4 e 5 [100 HORAS]
-- [ ] Inteligência Artificial - Módulo 1 e 2 [80 HORAS]
+- [ ] Python - Mundo 1 [40 HORAS]
+- [ ] Python - Mundo 2 [40 HORAS]
+- [ ] Python - Mundo 3 [40 HORAS]
+- [ ] Segurança da Informação - Módulo 1 [20 HORAS]
+- [ ] Segurança da Informação - Módulo 2 [20 HORAS]
+- [ ] Segurança da Informação - Módulo 3 [20 HORAS]
+- [ ] Segurança da Informação - Módulo 4 [20 HORAS]
+- [ ] Segurança da Informação - Módulo 5 [20 HORAS]
+- [ ] Inteligência Artificial - Módulo 1 [40 HORAS]
+- [ ] Inteligência Artificial - Módulo 2 [40 HORAS]
 - [ ] PHP [40 HORAS]
 - [ ] Java [40 HORAS]
 - [ ] Hardware [20 HORAS]
 - [ ] Linux [40 HORAS]
 
-### Total: 80 Hours
+### Total accomplished: 80 Hours
 
