@@ -114,13 +114,13 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ***
-
+<!--
 # 📚 Study Roadmap
 - Here are some courses that I plan to complete, willing to learn new technologies and build a solid base.
 - These courses are free and available on cursoemvideo.com, presented by Gustavo Guanabara.
   
 - [X] JavaScript [40 HORAS]
-- [ ] HTML e CSS - Módulo 1 [40 HORAS]
+- [X] HTML e CSS - Módulo 1 [40 HORAS]
 - [ ] HTML e CSS - Módulo 2 [40 HORAS]
 - [ ] HTML e CSS - Módulo 3 [40 HORAS]
 - [ ] HTML e CSS - Módulo 4 [40 HORAS]
@@ -135,12 +135,12 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 - [ ] Segurança da Informação - Módulo 3 [20 HORAS]
 - [ ] Segurança da Informação - Módulo 4 [20 HORAS]
 - [ ] Segurança da Informação - Módulo 5 [20 HORAS]
-- [ ] Inteligência Artificial - Módulo 1 [40 HORAS]
+- [X] Inteligência Artificial - Módulo 1 [40 HORAS]
 - [ ] Inteligência Artificial - Módulo 2 [40 HORAS]
 - [ ] PHP [40 HORAS]
 - [ ] Java [40 HORAS]
-- [ ] Hardware [20 HORAS]
+- [X] Hardware [20 HORAS]
 - [ ] Linux [40 HORAS]
 
-### Total accomplished: 80 Hours
-
+### Total accomplished: 180 Hours
+-->
