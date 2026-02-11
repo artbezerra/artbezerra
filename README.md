@@ -110,8 +110,8 @@ Although I am at the beginning of my journey, I am eager to learn, grow, and ins
 <br/>
 
 # 📊 Career Stats
-![](https://github-readme-stats.vercel.app/api?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![artbezerra](https://github-readme-stats.vercel.app/api?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![artbezerra](https://github-readme-stats.vercel.app/api/top-langs/?username=artbezerra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ***
 <!--
