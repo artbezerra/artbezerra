@@ -1,9 +1,9 @@
 # 📌 About me
 **`Information Systems Undergraduate at PUC Minas`**
 
-I'm deeply passionate about technology, particularly in the realm of Information Systems. My fascination goes beyond the digital and computational aspects; I believe that information systems encompass a broader spectrum, including verbal and nonverbal communication, subtle psychological influence, and other forms of information exchange. 
+I have technical training in Industrial Automation (IFMG) and am currently pursuing a degree in Information Systems (PUC Minas). 
 
-In my opinion, these elements are integral to understanding how information travels and is processed within any system.
+I am committed and dedicated to the activities I undertake. I seek opportunities in my field of study, aiming to deliver consistent and objective work that supports my personal development and contributes to both qualitative and quantitative improvements in results. I believe information systems are essential in today's world and strive to understand the factors that comprise data to extract valuable information for decision-making.
 
 Although I am at the beginning of my journey, I am eager to learn, grow, and inspire others as I progress in my career.
 
